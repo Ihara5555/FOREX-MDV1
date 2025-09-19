@@ -147,7 +147,7 @@ cmd({
       return await _0x48f9de("*Please give me googledrive url !!*");
     }
     let _0x252606 = await GDriveDl(_0x4f50da);
-    let _0xd40659 = "*`🗃️ KAVIDU-MD GDRIVE DOWNLODER 🗃️`*\n\n*┌──────────────────*\n*├ 🗃️ Name :* " + _0x252606.fileName + "\n*├ ⏩ Type :* " + _0x252606.fileSize + "\n*├ 📁 Size :* " + _0x252606.mimetype + "\n*└──────────────────*";
+    let _0xd40659 = "*`🗃️ FOREX-MD GDRIVE DOWNLODER 🗃️`*\n\n*┌──────────────────*\n*├ 🗃️ Name :* " + _0x252606.fileName + "\n*├ ⏩ Type :* " + _0x252606.fileSize + "\n*├ 📁 Size :* " + _0x252606.mimetype + "\n*└──────────────────*";
     await _0x48f9de(_0xd40659);
     _0xe91fdc.sendMessage(_0x1c3fcd, {
       'document': {
