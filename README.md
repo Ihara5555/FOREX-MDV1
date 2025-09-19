@@ -37,7 +37,7 @@
 </div>
 <div align="center">
   <p><b>🔑 Get The Session ID</b></p>
-  <a href="https://asitha.top/" target="_blank">
+  <a href="https://ihara.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white" height="55">
   </a>
 </div>
