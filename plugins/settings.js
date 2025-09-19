@@ -256,7 +256,7 @@ cmd({
       }]
     }];
     const _0x3106fe = {
-      'text': "*_⚙️ KAVIDU-MD SETTINGS INFO ⚙️_*\n\n",
+      'text': "*_⚙️ FOREX-MD SETTINGS INFO ⚙️_*\n\n",
       'footer': config.FOOTER,
       'title': '',
       'buttonText': "*🔢 Reply below number*",
